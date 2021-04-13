@@ -1,0 +1,6 @@
+//how to square numbers
+
+//1) number*number
+//2) pow(number to square, multiply how many times)
+//e.g. var numberThree = 3
+//pow(numberThree, 2)
